@@ -191,6 +191,16 @@ footer {
   width: 100%;
   position: absolute;
 }
+footer {
+    background-color: rgb(35, 30, 30);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    position: static;
+    bottom: 0;
+}
 
 .footer-logo img {
   text-align: center;
