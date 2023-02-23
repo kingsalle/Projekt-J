@@ -1,0 +1,174 @@
+.rwu {
+
+    scroll-margin: 95px;
+    margin-top: -5px;
+    position: relative;
+    padding: 2rem;
+    background: url(https://www.datocms-assets.com/65346/1666619121-ride-with-us-purple-bg.png) center top / cover no-repeat;
+}
+
+.velkommen {
+    max-width: 1000px;
+    margin: 0px auto;
+    position: relative;
+
+}
+
+.rwustsbf{
+  max-width: 1000px;
+  margin: 0px auto;
+  position: relative;
+  font-family: "Fugaz One";
+  color: rgb(251, 247, 245);
+  font-size: 30px;
+}
+
+.velkomtekst{
+  max-width: 900px;
+  margin: 0px auto;
+  position: relative;
+  color: rgb(251, 247, 245);
+  font-size: 18px;
+}
+
+.title {
+font-family: "Fugaz One";
+font-size: 20px;
+color: rgb(251, 247, 245);
+}
+
+.ourv {
+   text-align: center;
+   scroll-margin: 95px;
+   position: relative;
+   padding: 2rem 1rem;
+   font-size: 60px;
+   font-family: "Fugaz One";
+}
+
+.section1 {
+    -webkit-box-align: center;
+    align-items: center;
+    scroll-margin: 95px;
+    background: url(https://www.datocms-assets.com/65346/1660221152-purple-bg.png) center top / cover no-repeat;
+
+    position: relative;
+    padding: 2rem 1rem;
+    font-family: "Fugaz One";
+    }
+
+    footer {
+        background-color: rgb(35, 30, 30);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        position: static;
+        bottom: 0;
+    }
+
+#box1 {
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+    max-width: 500px;
+    color: black;
+    background: rgb(251, 247, 245);
+}
+
+#box2 {
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+    max-width: 500px;
+    color: black;
+    background: rgb(251, 247, 245);
+}
+
+#box3 {
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+    max-width: 500px;
+    color: black;
+    background: rgb(251, 247, 245);
+}
+
+
+.alleboks {
+    justify-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 250px));
+    gap: 12px;
+}
+
+
+.sand img {
+  height: auto;
+  width: 100%;
+}
+
+.ml6 {
+  position: relative;
+  text-align: center;
+  font-size: 60px;
+  position: relative;
+  text-align: center;
+  position: absolute;
+  top: 68%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color:rgb(251, 247, 245);
+  font-size: 90px;
+  font-family: "Fugaz One";
+}
+
+.text-wrapper {
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+}
+
+.letter {
+  text-align: center;
+  display: inline-block;
+  line-height: 10px;
+}
+
+h4 {
+  text-align: center;
+  border-radius: 5px;
+  max-width: 500px;
+  color: black;
+  font-size: 30px;
+  font-family: "Fugaz One";
+  padding: 12px;
+}
+
+
+
+h6 {
+    text-align: center;
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+    max-width: 500px;
+    color: black;
+    font-size: 16px;
+    padding: 10px;
+}
+
+footer {
+    background-color: rgb(35, 30, 30);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    position: static;
+    bottom: 0;
+}
